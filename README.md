@@ -10,6 +10,13 @@ Projeto da NLW 12 - Spacetime (Trilha Ignite) da Rocketseat.
 
 <p align="center">
 <img src = "https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,nodejs,vercel,vscode,git&perline=10")>
+<br />
+Other tech:
+  <br />
+Next Auth, Expo, Fastify
+
+
+
 </p>
 
 ## 📝 License
