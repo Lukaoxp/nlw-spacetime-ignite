@@ -1,3 +1,5 @@
+#### [Notion](https://efficient-sloth-d85.notion.site/NLW-12-Spacetime-02e2ac5c92674f849638f9040a624652)
+
 <h1 align="center">
   Rocketseat's NLW 12 - Spacetime (Trilha Ignite)
 </h1>
